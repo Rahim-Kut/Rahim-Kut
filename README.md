@@ -92,20 +92,18 @@
 </section>
 
 ---
-<!-- ───────────── FOOTER CONTACT BAR ───────────── -->
+<!-- ──────────── FOOTER CONTACT BAR (flat badges) ──────────── -->
 <br>
 
-<div align="center">
-
-  <a href="mailto:hilofer111@gmail.com"  title="Email me">
-    <img src="https://img.shields.io/badge/Email-hilofer111@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email badge" />
+<p align="center">
+  <a href="mailto:hilofer111@gmail.com" tabindex="-1">
+    <img src="https://img.shields.io/badge/Email-hilofer111%40gmail.com-ea4335?style=flat&logo=gmail&logoColor=white" alt="Email badge" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://se.linkedin.com/in/abdulrahim-kuteifan-1045bb146"  title="Connect on LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdulrahim%20Kuteifan-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+  <a href="https://se.linkedin.com/in/abdulrahim-kuteifan-1045bb146" tabindex="-1">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdulrahim%20Kuteifan-0a66c2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
-
-</div>
+</p>
 
 <br>
 
