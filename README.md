@@ -93,7 +93,7 @@
 
 ---
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Rahim-Kut&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="175" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Rahim-Kut&theme=vue-dark&hide_border=true" height="175" />
 </p>
