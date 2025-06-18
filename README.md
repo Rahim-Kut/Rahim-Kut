@@ -35,5 +35,5 @@ Check out my pinned repositories below—more coming soon!
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide=issues&hide_border=true" alt="GitHub Stats" />
+  <img src=![Rahim-Kut's Stats](https://github-readme-stats.vercel.app/api?username=Rahim-Kut&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) />
 </p>
