@@ -20,7 +20,7 @@
        alt="About Me" />
 
   > *Curiosity-driven tinkerer* exploring what’s under the hood and turning insights into working software.<br>
-  > Bridges **bare-metal C/C++** with **modern web tech** — always learning, always hacking.
+  > Bridging **bare-metal C/C++** with **modern web tech** — always learning, always hacking.
 </section>
 
 <br>
