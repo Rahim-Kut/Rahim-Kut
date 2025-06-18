@@ -8,8 +8,6 @@
   <img alt="Year 4 badge"  src="https://img.shields.io/badge/Year%204-Computer%20Engineering-1d9bf0?style=flat">
   <img alt="Örebro University" src="https://img.shields.io/badge/Örebro%20University-🇸🇪%20Sweden-8e44ad?style=flat" />
   <img alt="Open Source badge" src="https://img.shields.io/badge/Open%20Source-Friendly-34c759?style=flat">
-  <a href="mailto:hilofer111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hilofer111@gmail.com-ea4335?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://se.linkedin.com/in/abdulrahim-kuteifan-1045bb146"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abdulrahim%20Kuteifan-0a66c2?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
@@ -94,6 +92,22 @@
 </section>
 
 ---
+<!-- ───────────── FOOTER CONTACT BAR ───────────── -->
+<br>
+
+<div align="center">
+
+  <a href="mailto:hilofer111@gmail.com"  title="Email me">
+    <img src="https://img.shields.io/badge/Email-hilofer111@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://se.linkedin.com/in/abdulrahim-kuteifan-1045bb146"  title="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdulrahim%20Kuteifan-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+  </a>
+
+</div>
+
+<br>
 
 <!-- GitHub Stats -->
 <div align="center">
