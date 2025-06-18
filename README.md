@@ -70,14 +70,15 @@
 
 <br>
 
-<section id="contact" aria-labelledby="contact-title">
-  <img id="contact-title"
-       src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2000&pause=800&color=3498DB&center=false&vCenter=false&width=350&lines=Contact&repeat=false"
-       alt="Contact" />
+<section id="currently-learning" aria-labelledby="currently-learning-title">
+  <img id="currently-learning-title"
+       src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2000&pause=800&color=3498DB&center=false&vCenter=false&width=350&lines=Currently+Learning&repeat=false"
+       alt="Currently Learning" />
 
-  - ✉️ **Email:** hilofer111@gmail.com  
-  - 💼 **LinkedIn:** [Abdulrahim Kuteifan](https://se.linkedin.com/in/abdulrahim-kuteifan-1045bb146)
+  - 🐧 Diving into **Linux internals** — memory management, paging & kernel-user interactions  
+  - 🌐 Leveling-up my **web-dev stack** (HTML/CSS/JS → a personal site & blog)
 </section>
+
 
 <br>
 
