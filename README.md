@@ -1,39 +1,99 @@
-# Hi there, I'm Abdulrahim Kuteifan 👋
+<!-- Typing-effect banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Abdulrahim+Kuteifan+👋;Computer+Engineering+%E2%80%A2+Year+4;Master+Track:+Mobile+%26+Distributed+Systems" alt="Typing SVG"/>
+</p>
 
-Computer Engineering student @ **Örebro University** • entering **Year 4**  
-**Master track:** **Mobile & Distributed Systems**
+<!-- Slim badges row -->
+<p align="center">
+  <img alt="Year 4 badge"  src="https://img.shields.io/badge/Year%204-Computer%20Engineering-1d9bf0?style=flat">
+  <img alt="Open Source badge" src="https://img.shields.io/badge/Open%20Source-Friendly-34c759?style=flat">
+  <a href="mailto:hilofer111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hilofer111@gmail.com-ea4335?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://se.linkedin.com/in/abdulrahim-kuteifan-1045bb146"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abdulrahim%20Kuteifan-0a66c2?style=flat&logo=linkedin&logoColor=white"></a>
+</p>
 
 ---
+<!-- ───── slim, one-shot typing banners (left-aligned) ───── -->
 
-## 🧑‍💻 About Me
-I’m driven by a curiosity for how things work under the hood & a passion for turning that knowledge into useful software.  
-I enjoy working across the stack—from low‑level C/C++ to web tech—always learning, always hacking.
+<section id="about-me" aria-labelledby="about-me-title">
+  <img id="about-me-title"
+       src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2000&pause=800&color=1ABC9C&center=false&vCenter=false&width=350&lines=About+Me&repeat=false"
+       alt="About Me" />
 
-## 🔧 Tech Stack
-- **Languages:** Python · C · C++ · MATLAB · HTML/CSS/JavaScript
-- **Tools / Concepts:** Git • Linux • Algorithms • Software‑engineering principles
+  > *Curiosity-driven tinkerer* exploring what’s under the hood and turning insights into working software.<br>
+  > Bridges **bare-metal C/C++** with **modern web tech** — always learning, always hacking.
+</section>
 
-## 🎯 Current Goals
-- Deepen my understanding of distributed & mobile systems  
-- Keep building & open‑sourcing projects  
-- Grow into a well‑rounded developer
+<br>
 
-## 🌟 Featured Projects
-Check out my pinned repositories below—more coming soon!
+<section id="tech-stack" aria-labelledby="tech-stack-title">
+  <img id="tech-stack-title"
+       src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2000&pause=800&color=F39C12&center=false&vCenter=false&width=350&lines=Tech+Stack&repeat=false"
+       alt="Tech Stack" />
 
-## 📬 Contact
-- **Email:** hilofer111@gmail.com  
-- **LinkedIn:** [Abdulrahim Kuteifan](https://se.linkedin.com/in/abdulrahim-kuteifan-1045bb146)
+  <!-- ---------- LANGUAGES & TOOLS (inline icons) ---------- -->
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"         alt="Python"     height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"                   alt="C"          height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"   alt="C++"        height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"         alt="MATLAB"     height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"           alt="HTML5"      height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"             alt="CSS3"       height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"               alt="Git"        height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"         alt="VS Code"    height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"           alt="Linux"      height="40"/>
+  </div>
+</section>
 
-## 🌱 Outside of Code
-- 🎮 Video‑game enthusiast  
-- ⚽️ Casual football player & big fan of the sport  
-- 📺 Current favorite show *Star Wars: Andor*
+<br>
 
-> “I burn my life to make a sunrise I know I'll never see.” – *Luthen Rael, Andor*
+<section id="current-goals" aria-labelledby="current-goals-title">
+  <img id="current-goals-title"
+       src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2000&pause=800&color=9B59B6&center=false&vCenter=false&width=350&lines=Current+Goals&repeat=false"
+       alt="Current Goals" />
+
+  - 🚀 **Deep-dive** into distributed & mobile systems  
+  - 🛠️ **Ship** more open-source projects  
+  - 📈 **Level-up** into a well-rounded developer
+</section>
+
+<br>
+
+<section id="featured-projects" aria-labelledby="featured-projects-title">
+  <img id="featured-projects-title"
+       src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2000&pause=800&color=E67E22&center=false&vCenter=false&width=350&lines=Featured+Projects&repeat=false"
+       alt="Featured Projects" />
+
+  *(More coming soon — check the pinned repos below)*
+</section>
+
+<br>
+
+<section id="contact" aria-labelledby="contact-title">
+  <img id="contact-title"
+       src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2000&pause=800&color=3498DB&center=false&vCenter=false&width=350&lines=Contact&repeat=false"
+       alt="Contact" />
+
+  - ✉️ **Email:** hilofer111@gmail.com  
+  - 💼 **LinkedIn:** [Abdulrahim Kuteifan](https://se.linkedin.com/in/abdulrahim-kuteifan-1045bb146)
+</section>
+
+<br>
+
+<section id="outside-of-code" aria-labelledby="outside-of-code-title">
+  <img id="outside-of-code-title"
+       src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2000&pause=800&color=2ECC71&center=false&vCenter=false&width=350&lines=Outside+of+Code&repeat=false"
+       alt="Outside of Code" />
+
+  🎮 Gaming • ⚽️ Football • 📺 *Star Wars: Andor*  
+
+  > “I burn my life to make a sunrise I know I'll never see.” — *Luthen Rael, Andor*
+</section>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahim-Kut&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Rahim-Kut's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahim-Kut&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rahim-Kut&theme=vue-dark&hide_border=true" height="175" />
 </p>
