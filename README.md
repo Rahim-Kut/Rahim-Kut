@@ -115,3 +115,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Rahim-Kut&theme=vue-dark&hide_border=true"
        width="47%"/>
 </div>
+## License
+
+**Text & images:** © 2025 Abdulrahim Kuteifan (Rahim-Kut) — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+**Code snippets:** [MIT](./LICENSE).
