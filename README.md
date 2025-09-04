@@ -115,5 +115,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Rahim-Kut&theme=vue-dark&hide_border=true"
        width="47%"/>
 </div>
-
-License: MIT
