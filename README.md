@@ -86,7 +86,7 @@
        src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2000&pause=800&color=2ECC71&center=false&vCenter=false&width=350&lines=Outside+of+Code&repeat=false"
        alt="Outside of Code" />
 
-  🎮 Gaming • ⚽️ Football • 📺 *Star Wars: Andor*  
+  🎮 Gaming • ⚽️ Football • 📺 Star Wars: Andor  
 
   > “I burn my life to make a sunrise I know I'll never see.” — *Luthen Rael, Andor*
 </section>
