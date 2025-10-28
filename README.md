@@ -74,8 +74,8 @@
        src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2000&pause=800&color=3498DB&center=false&vCenter=false&width=350&lines=Currently+Learning&repeat=false"
        alt="Currently Learning" />
 
-  - 🐧 Diving into **Linux internals** — memory management, paging & kernel-user interactions  
-  - 🌐 Leveling-up my **web-dev stack** (HTML/CSS/JS → a personal site & blog)
+  - 🎨 Exploring computer graphics — rendering pipelines, shaders & real-time rasterization  
+  - 🛠️ Building compilers & interpreters — lexing/parsing, semantic analysis & code generation
 </section>
 
 
