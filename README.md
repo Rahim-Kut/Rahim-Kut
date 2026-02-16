@@ -42,6 +42,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"               alt="Git"        height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"         alt="VS Code"    height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"           alt="Linux"      height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/windows11/windows11-original.svg" alt="VS Code"    height="40"/>
+
   </div>
 </section>
 
