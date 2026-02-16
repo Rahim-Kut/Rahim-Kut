@@ -76,6 +76,7 @@
 
   - 🎨 Exploring computer graphics — rendering pipelines, shaders & real-time rasterization  
   - 🛠️ Building compilers & interpreters — lexing/parsing, semantic analysis & code generation
+  - 🤝 Integrated Project Work — large-scale team development, requirements → delivery, collaboration & Git-based workflows
 </section>
 
 
