@@ -108,5 +108,4 @@
 
 <br>
 
-**Text & images:** © 2025 Abdulrahim Kuteifan (Rahim-Kut) — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
-**Code snippets:** [MIT](./LICENSE).
+**Content CC BY 4.0, code MIT
