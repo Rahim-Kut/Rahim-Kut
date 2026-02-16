@@ -89,7 +89,7 @@
 
   🎮 Gaming • ⚽️ Football • 📺 Star Wars: Andor  
 
-  > “I burn my life to make a sunrise I know I'll never see.” — *Luthen Rael, Andor*
+  > “I burn my life to make a sunrise I know I'll never see.” - *Luthen Rael, Andor*
 </section>
 
 ---
