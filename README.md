@@ -56,9 +56,9 @@
        src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2000&pause=800&color=9B59B6&center=false&vCenter=false&width=350&lines=Current+Goals&repeat=false"
        alt="Current Goals" />
 
-  - 🚀 **Deep-dive** into distributed & mobile systems  
-  - 🛠️ **Ship** more open-source projects  
-  - 📈 **Level-up** into a well-rounded developer
+  - 🚀 Deepening my skills in distributed and mobile systems  
+  - 🛠️ Building stronger portfolio projects with real technical depth  
+  - 📈 Growing into a well-rounded software engineer
 </section>
 
 <br>
@@ -68,7 +68,7 @@
        src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2000&pause=800&color=E67E22&center=false&vCenter=false&width=350&lines=Featured+Projects&repeat=false"
        alt="Featured Projects" />
 
-  - **Quick Reflex Game** — IoT web game for measuring reaction speed, built with Raspberry Pi, PHP, MySQL, JavaScript, CSS, and Python
+  - **Quick Reflex Game** — IoT web game for measuring reaction speed using Raspberry Pi, PHP, MySQL, JavaScript, CSS, and Python
   - **Starlist** — Desktop application developed in a five-person university group project using C++, Qt, SQLite, and Python  
 </section>
 
@@ -96,7 +96,8 @@
 
   🎮 Gaming • ⚽️ Football • 📺 Star Wars: Andor  
 
-  > “I burn my life to make a sunrise I know I'll never see.” - *Luthen Rael, Andor*
+  > “I burn my life to make a sunrise I know I'll never see.”  
+  > *Luthen Rael, Andor*
 </section>
 
 ---
