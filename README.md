@@ -89,7 +89,7 @@
        alt="Currently Learning" />
 
   - 🤖 Applied AI for the Web — information retrieval, ranking, search methods, and data preprocessing  
-  - 🔐 Secure systems — authentication, cryptography, network attacks, and web security fundamentals  
+  - 🔐 Computer Security — authentication, cryptography, network attacks, and web security fundamentals  
   - 🤝 Collaborative software engineering — large-scale project work, integration, and team-based delivery  
   - 🎨 Real-time and ray-based graphics — OpenGL, lighting, materials, mapping, and rendering pipelines  
   - 🛠️ Language implementation — lexing, parsing, semantic analysis, runtime systems, and code generation
