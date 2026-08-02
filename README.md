@@ -115,7 +115,7 @@
 
 <p align="center">
   <a href="mailto:rahim.kuteifan@gmail.com" tabindex="-1">
-    <img src="https://img.shields.io/badge/Email-hilofer111%40gmail.com-ea4335?style=flat&logo=gmail&logoColor=white" alt="Email badge" />
+    <img src="https://img.shields.io/badge/Email-rahim.kuteifan%40gmail.com-ea4335?style=flat&logo=gmail&logoColor=white" alt="Email badge" />
   </a>
   &nbsp;&nbsp;
   <a href="https://se.linkedin.com/in/abdulrahim-kuteifan-1045bb146" tabindex="-1">
