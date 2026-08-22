@@ -1,11 +1,11 @@
 <!-- Typing-effect banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Abdulrahim+Kuteifan+👋;Computer+Engineering+%E2%80%A2+Year+4;Master+Track:+Mobile+%26+Distributed+Systems" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Abdulrahim+Kuteifan+👋;Computer+Engineering+%E2%80%A2+Year+5;Master+Track:+Mobile+%26+Distributed+Systems" alt="Typing SVG"/>
 </p>
 
 <!-- Slim badges row -->
 <p align="center">
-  <img alt="Year 4 badge"  src="https://img.shields.io/badge/Year%204-Computer%20Engineering-1d9bf0?style=flat">
+  <img alt="Year 5 badge"  src="https://img.shields.io/badge/Year%205-Computer%20Engineering-1d9bf0?style=flat">
   <img alt="Örebro University" src="https://img.shields.io/badge/Örebro%20University-🇸🇪%20Sweden-8e44ad?style=flat" />
   <img alt="Open Source badge" src="https://img.shields.io/badge/Open%20Source-Friendly-34c759?style=flat">
 </p>
