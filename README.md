@@ -98,10 +98,10 @@
 
 <br>
 
-<section id="outside-of-code" aria-labelledby="outside-of-code-title">
-  <img id="outside-of-code-title"
-       src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2000&pause=800&color=2ECC71&center=false&vCenter=false&width=350&lines=Outside+of+Code&repeat=false"
-       alt="Outside of Code" />
+<section id="beyond-engineering" aria-labelledby="beyond-engineering-title">
+  <img id="beyond-engineering-title"
+       src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2000&pause=800&color=2ECC71&center=false&vCenter=false&width=350&lines=Beyond+Engineering&repeat=false"
+       alt="Beyond Engineering" />
 
   🎮 Gaming • ⚽️ Football • 📺 Star Wars: Andor  
 
