@@ -77,9 +77,9 @@
        src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2000&pause=800&color=E67E22&center=false&vCenter=false&width=350&lines=Featured+Projects&repeat=false"
        alt="Featured Projects" />
   
-- **[Integrated Project Work](https://github.com/Rahim-Kut/IntegratedProjectWork)** — Case study of a team-developed modular mall simulation using Godot and MQTT, featuring my contributions to HCI features, UI integration, and automated testing
-- **[Quick Reflex Game](https://github.com/Rahim-Kut/Quick-Reflex-Game)** — IoT web game for measuring reaction speed using Raspberry Pi, PHP, MySQL, JavaScript, CSS, and Python
-- **[Starlist](https://github.com/Rahim-Kut/Starlist)** — Desktop application developed in a five-person university group project using C++, Qt, SQLite, and Python
+- **[Integrated Project Work](https://github.com/Rahim-Kut/IntegratedProjectWork)** - Team mall simulation using Godot and MQTT, featuring my UI integration and automated testing work
+- **[Quick Reflex Game](https://github.com/Rahim-Kut/Quick-Reflex-Game)** - IoT web game for measuring reaction speed using Raspberry Pi, PHP, MySQL, JavaScript, CSS, and Python
+- **[Starlist](https://github.com/Rahim-Kut/Starlist)** - Desktop application developed in a five-person university group project using C++, Qt, SQLite, and Python
 </section>
 
 <br>
@@ -89,10 +89,10 @@
        src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2000&pause=800&color=3498DB&center=false&vCenter=false&width=350&lines=Currently+Learning&repeat=false"
        alt="Currently Learning" />
 
-  - 🏗️ Software Architectures — architectural patterns, system design, and design trade-offs
-  - 🧪 Software Quality Engineering — software testing, quality assurance, and reliability  
-  - 📱 Mobile Platforms — mobile application development and platform concepts  
-  - ⚡ Parallel Programming — concurrency, parallel computation, and performance  
+  - 🏗️ Software Architectures - architectural patterns, system design, and design trade-offs
+  - 🧪 Software Quality Engineering - software testing, quality assurance, and reliability  
+  - 📱 Mobile Platforms - mobile application development and platform concepts  
+  - ⚡ Parallel Programming - concurrency, parallel computation, and performance  
 </section>
 
 
