@@ -76,9 +76,10 @@
   <img id="featured-projects-title"
        src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2000&pause=800&color=E67E22&center=false&vCenter=false&width=350&lines=Featured+Projects&repeat=false"
        alt="Featured Projects" />
-
-  - **Quick Reflex Game** — IoT web game for measuring reaction speed using Raspberry Pi, PHP, MySQL, JavaScript, CSS, and Python
-  - **Starlist** — Desktop application developed in a five-person university group project using C++, Qt, SQLite, and Python  
+  
+- **[Integrated Project Work](https://github.com/Rahim-Kut/IntegratedProjectWork)** — Case study of a team-developed modular mall simulation using Godot and MQTT, featuring my contributions to HCI features, UI integration, and automated testing
+- **[Quick Reflex Game](https://github.com/Rahim-Kut/Quick-Reflex-Game)** — IoT web game for measuring reaction speed using Raspberry Pi, PHP, MySQL, JavaScript, CSS, and Python
+- **[Starlist](https://github.com/Rahim-Kut/Starlist)** — Desktop application developed in a five-person university group project using C++, Qt, SQLite, and Python
 </section>
 
 <br>
@@ -88,11 +89,10 @@
        src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2000&pause=800&color=3498DB&center=false&vCenter=false&width=350&lines=Currently+Learning&repeat=false"
        alt="Currently Learning" />
 
-  - 🤖 Applied AI for the Web — information retrieval, ranking, search methods, and data preprocessing  
-  - 🔐 Computer Security — authentication, cryptography, network attacks, and web security fundamentals  
-  - 🤝 Collaborative software engineering — large-scale project work, integration, and team-based delivery  
-  - 🎨 Real-time and ray-based graphics — OpenGL, lighting, materials, mapping, and rendering pipelines  
-  - 🛠️ Language implementation — lexing, parsing, semantic analysis, runtime systems, and code generation
+  - 🏗️ Software Architectures — architectural patterns, system design, and design trade-offs
+  - 🧪 Software Quality Engineering — software testing, quality assurance, and reliability  
+  - 📱 Mobile Platforms — mobile application development and platform concepts  
+  - ⚡ Parallel Programming — concurrency, parallel computation, and performance  
 </section>
 
 
